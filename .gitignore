@@ -1,0 +1,6 @@
+# Claude Code personal overrides (not shared)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Per-session TDD state (locked RED tests)
+.claude/state/
